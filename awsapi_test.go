@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/topxeq/tk"
+	tk "github.com/topxeq/tkc"
 )
 
 func Test001(t *testing.T) {
